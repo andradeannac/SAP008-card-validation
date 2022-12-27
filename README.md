@@ -40,6 +40,6 @@ Foi visada uma aplicação simples, em busca de atingir os objetivos de aprendiz
 
 ## 3. Desenvolvedora
 <div align="center">
-Clique abaixo para acessar o **linkedin** da desenvolvedora <br><br>
+Clique abaixo para acessar o linkedin da desenvolvedora <br><br>
 :woman_technologist: Anna Clara Andrade(<a href="https://www.linkedin.com/in/andradeannac">@andradeannac</a>)
 </div>
