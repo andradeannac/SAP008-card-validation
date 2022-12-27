@@ -3,12 +3,8 @@
 ## Índice
 
 * [1. Resumo do projeto](#1-resumo-do-projeto)
-* [3. Objetivos de aprendizagem](#3-objetivos-de-aprendizagem)
-* [4. Considerações gerais](#4-consideracoes-gerais)
-* [5. Critérios mínimos de aceitação do
-  projeto](#5-criterios-de-aceptacao-mínimos-do-projeto)
-* [6. Guias, dicas e leituras
-  complementares](#6-guias-dicas-e-leituras-complementares)
+* [2. Aplicação](#2-Aplicação)
+* [3. Desenvolvedora](#3-Desenvolvedora)
 
 ***
 
