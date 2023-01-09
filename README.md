@@ -10,17 +10,11 @@
 
 ## 1. Resumo do projeto
 
-Neste projeto, será preciso criar um aplicativo da Web que permita ao usuário
-validar o número de um cartão de crédito, por meio do [algoritmo de Luhn](https://en.wikipedia.org/wiki/Luhn_algorithm),
-também chamado de módulo 10,  que é um método de soma de verificação, usado para validar
-números de identificação, como o IMEI de telefones celulares, cartões de crédito
-etc.  Além disso, precisará 
-implementar a funcionalidade para ocultar todos os dígitos de um cartão, exceto
-os quatro últimos.
+Neste projeto, foi criado um aplicativo da Web que permite ao usuário validar o número de um cartão de crédito, por meio do algoritmo de Luhn, também chamado de módulo 10, que é um método de soma de verificação, usado para validar números de identificação, como o IMEI de telefones celulares, cartões de crédito etc. Além disso, também foi implementada a funcionalidade para ocultar todos os dígitos de um cartão, exceto os quatro últimos.
 
-Você aprenderá a criar um aplicativo Web que irá interagir interagir com uma
-pessoa ao final do desenvolvimento através do navegador, usando HTML, CSS e
-JavaScript como tecnologias.
+O objetivo de aprendizagem foi criar um aplicativo Web para interagir com o usuário através do navegador, usando HTML, CSS e JavaScript como tecnologias.
+
+***
 
 ## 2. Aplicação
 
