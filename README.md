@@ -24,7 +24,7 @@ JavaScript como tecnologias.
 
 ## 2. Aplicação
 
-<a href="https://andradeannac.github.io/SAP008-card-validation/index.html">Clique aqui</a> para navegar no deploy do projeto. 
+<a href="https://andradeannac.github.io/SAP008-card-validation/src/index.html">Clique aqui</a> para navegar no deploy do projeto. 
 
 Foi visada uma aplicação simples, em busca de atingir os objetivos de aprendizagem, em utilizar o Algoritmo de Luhn e a lógica do **JavaScript**.
 
